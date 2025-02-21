@@ -1,6 +1,6 @@
-{
+={
   "DATA": {
-	"https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/coy6tu1VUd3zjhNmNde-PS4_Netflix_v1.53.pkg": {
+	"https://upload.vikingfile.com/toNRkp61D5/Netflix.pkg": {
       "title_id": "CUSA00127",
       "region": "EUR",
       "name": "Netflix",
@@ -20,7 +20,7 @@
       "min_fw": "5.05",
       "cover_url": "https://i.imgur.com/6A5hUR7.png"
 	 },
-	"https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/co9DEmueZCVNRURktde-PS4_Apple_TV_v1.11.pkg": {
+	"https://upload.vikingfile.com/PKbveYKmpc/Apple%20TV.pkg": {
       "title_id": "CUSA24386",
       "region": "USA",
       "name": "Apple TV",
@@ -30,7 +30,7 @@
       "min_fw": "5.05+",
       "cover_url": "https://i.imgur.com/o1SvLLk.png"
 	},
-	"https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/cow8m04Sja4nuxltide-PS4_Consolepedia3D_v1.32.pkg": {
+	"https://upload.vikingfile.com/dmvqPjXZjq/Consolepedia%203D.pkg": {
       "title_id": "VTHX21368",
       "region": "USA",
       "name": "Consolepedia 3D",
@@ -40,7 +40,7 @@
       "min_fw": "5.05+",
       "cover_url": "https://i.imgur.com/oE9cExJ.png"
 	},
-	"https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/cozOKVPOJDT7xsIZvde-PS4_PlutoTV_v3.43.pkg": {
+	"https://upload.vikingfile.com/XMyA3S0HcM/Pluto%20TV.pkg": {
       "title_id": "CUSA04688",
       "region": "USA",
       "name": "Pluto TV",
@@ -50,7 +50,7 @@
       "min_fw": "6.72+",
       "cover_url": "https://i.imgur.com/JKvmKa4.png"
 	},
-	"https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/comyUoodVXui9Dhr5de-Twich.pkg": {
+	"https://upload.vikingfile.com/1T2xkY6LRh/Twitch.pkg": {
       "title_id": "CUSA03285",
       "region": "USA",
       "name": "Twitch",
@@ -60,7 +60,7 @@
       "min_fw": "5.05",
       "cover_url": "https://i.imgur.com/8ugrPHr.png"
 	},
-	"https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/coAMHr5W02M9kWOYMde-PS4_Player_V1.07.pkg": {
+	"https://upload.vikingfile.com/Aiofc10Sgn/PS4%20Player.pkg": {
       "title_id": "LAPY20002",
       "region": "USA",
       "name": "PS4 Player",
@@ -70,7 +70,7 @@
       "min_fw": "5.05",
       "cover_url": "https://i.imgur.com/myBM3lL.png"
 	},
-	"https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/cot3u4nzLjIr4FMawde-UP4381-CUSA01015_00-YOUTUBESCEA00000-A0100-V0232-CyB1K.pkg": {
+	"https://upload.vikingfile.com/eti5l6ZNaV/Youtube.pkg": {
       "title_id": "CUSA01015",
       "region": "USA",
       "name": "YouTube",
@@ -79,7 +79,6 @@
       "size": 151650304,
       "min_fw": "5.05",
       "cover_url": "https://i.imgur.com/h2XvrcZ.jpeg"
-	 
     }
   }
 }
