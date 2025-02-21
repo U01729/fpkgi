@@ -1,7 +1,7 @@
 {
-  "DATA": {"telegram": {
+  "DATA": {"https://www.example.com/directLinkToContent.pkg": {
       "title_id": "CUSA00001",
-      "region": "???",
+      "region": "EUR",
       "name": "All rights reserved to 4GAMER telegram, THX YOU - Arabic",
       "size": 99999999999 ,
       "version": "1.00",
