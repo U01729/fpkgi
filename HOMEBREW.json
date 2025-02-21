@@ -30,7 +30,7 @@
       "min_fw": "5.05+",
       "cover_url": "https://i.imgur.com/Nd2fCLt.jpeg"
     },
-	"https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/cohmWPuIS502InEjDde-IV0000-APOL00004_00-APOLLO0000000PS4.pkg": {
+	"https://upload.vikingfile.com/ZB0d78PEWi/Apollo%20Save%20Tool.pkg": {
       "title_id": "APOL00004",
       "region": "EUR",
       "name": "PS4 Apollo Save Tool",
@@ -50,7 +50,7 @@
       "min_fw": "5.05+",
       "cover_url": "https://i.imgur.com/VdThh1C.png"
     },
-	"https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/coavzFCXDiugWJAeXde-PS4_Xplorer_v1.34.pkg": {
+	"https://upload.vikingfile.com/Jbas1huNKd/PS4-Xplorer%205.05-9.00.pkg": {
       "title_id": "LAPY20001",
       "region": "EUR",
       "name": "PS4 Xplorer",
@@ -60,7 +60,7 @@
       "min_fw": "5.05+",
       "cover_url": "https://i.imgur.com/JOaOjdo.png"
     },
-	"https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/coyqfsoiTRp1LWxq8de-PS4_ITEMzflow_v1.06.pkg": {
+	"https://upload.vikingfile.com/TRBvWfYJOx/itmZflow.pkg": {
       "title_id": "ITEM00001",
       "region": "EUR",
       "name": "ItemzFlow Game Manager",
@@ -70,7 +70,7 @@
       "min_fw": "5.05+",
       "cover_url": "https://i.imgur.com/5kPG3IC.png"
     },
-	"https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/coT5TLjeCE3EHR2Zyde-IV0000-CHTM00777_00-PS4CHEATSMANAGER.pkg": {
+	"https://upload.vikingfile.com/XmqSrkXNMW/PS4%20Cheats%20Manager.pkg": {
       "title_id": "CHTM00777",
       "region": "EUR",
       "name": "PS4 Cheats Manager",
@@ -80,7 +80,7 @@
       "min_fw": "5.05+",
       "cover_url": "https://i.imgur.com/8288muI.png"
     },
-	"https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/co1wbxjCvQMxo21tAde-PS4_Temperature_v1.07.pkg": {
+	"https://upload.vikingfile.com/TH60qUxQ8D/PS4%20Temperature.pkg": {
       "title_id": "CHTM00777",
       "region": "EUR",
       "name": "PS4 Temperature",
@@ -100,10 +100,10 @@
       "min_fw": "5.05+",
       "cover_url": "https://i.imgur.com/qGpvuZs.png"
     },
-    "https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/coMleYP94BNqrAUsQde-HB%20STOR%20BY%204GAMER.pkg": {
+    "https://upload.vikingfile.com/IZMKiqyDtp/HBSTOR.pkg": {
       "title_id": "NPXS39041",
       "region": "EUR",
-      "name": "Homebrew Store",
+      "name": "HemBews Store",
       "size": 24772608,
       "version": "1.00",
       "release": "17-02-2025",
@@ -120,7 +120,7 @@
       "min_fw": "5.05",
       "cover_url": "https://i.imgur.com/O7poOEc.png"
 	 },
-	"https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/coBHCwdrUVeH1DvH5de-PS4_Controller_Homebrew_v1.00.pkg": {
+	"https://upload.vikingfile.com/V1VXax52uX/PS4%20Controller%20Homebrew.pkg": {
       "title_id": "NPXX51364",
       "region": "EUR",
       "name": "PS4 Controller Homebrew",
@@ -140,7 +140,7 @@
       "min_fw": "5.05",
       "cover_url": "https://i.imgur.com/lNEESiu.png"
 	  },
-	 "https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/coDZkUjtbeEYKHwTKde-PS4_Toolset_v2.20.pkg": {
+	 "https://upload.vikingfile.com/0kCK9mpYtN/PS4%20TOOLSET.pkg": {
       "title_id": "SAAT29385",
       "region": "USA",
       "name": "PS4 Toolset",
@@ -170,7 +170,7 @@
       "min_fw": "5.05+",
       "cover_url": "https://i.imgur.com/nNx8nWP.png"
 	  },
-	 "https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/coXaEx8RB3qgBuF9kde-PS4_LAPY_Game_Collection_v1.00.pkg": {
+	 "https://upload.vikingfile.com/HwD7nrZCzc/Lapy%20Games%20Collection.pkg": {
       "title_id": "LAPY10012",
       "region": "USA",
       "name": "Lapy Games Collection",
@@ -230,7 +230,7 @@
       "min_fw": "6.7",
       "cover_url": "https://i.imgur.com/ue0ECcO.png"
     },
-    "https://download.akirabox.com/uploads/users/XLJlGnnlG15w/coXWoHTW15Y5Bv7JHde-HB%20STOR%20BY%204GAMER.pkg": {
+    "https://upload.vikingfile.com/IZMKiqyDtp/HBSTOR.pkg": {
       "title_id": "NPXS39041",
       "region": "EUR",
       "name": "HB Store",
