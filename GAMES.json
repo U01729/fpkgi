@@ -1,5 +1,14 @@
 {
-  "DATA": {
+  "DATA": {"telegram": {
+      "title_id": "CUSA",
+      "region": "???",
+      "name": "All rights reserved to 4GAMER telegram, THX YOU - Arabic",
+      "size": 99999999999 ,
+      "version": "1.00",
+      "release": "1-1-2025",
+      "min_fw": "5.05",
+      "cover_url": "https://raw.githubusercontent.com/U01729/fpkgi/refs/heads/main/Backgrounds/999.png"
+   },	  
     "https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/coREqim6wjldwEnZgde-GAME-Alone.With.You.PS4-CUSA04792.pkg": {
       "title_id": "CUSA04792",
       "region": "EUR",
@@ -58,7 +67,7 @@
       "size": 292356096,
       "version": "1.0",
       "release": "02-13-2025",
-      "min_fw": null,
+      "min_fw": "5.05",
       "cover_url": "https://dlpsgame.com/wp-content/uploads/2024/12/2-7.jpg"
     },
     "https://eu1.akirabox.com/uploads/users/lvgKGx6938Qn/coq7PO2b1jFj4EQKGde-Coffee.Talk.Episode.2.pkg": {
@@ -67,8 +76,8 @@
       "name": "Coffee Talk Episode 2 Hibiscus & Butterfly",
       "size": 442892288,
       "version": "1.0",
-      "release": null,
-      "min_fw": null,
+      "release": "2025",
+      "min_fw": "5.05",
       "cover_url": "https://dlpsgame.com/wp-content/uploads/2024/12/1-14.jpg"
     },
     "https://eu1.akirabox.com/uploads/users/lvgKGx6938Qn/coqCd5Fxe7tkTrhGpde-Metro%20Redux%20(CUSA00683)%20-%201.00%20Game%20-%20[DLPSGAME.COM].pkg": {
@@ -693,7 +702,16 @@
       "release": "2024",
       "min_fw": "5.05+",
       "cover_url": "https://dlpsgame.com/wp-content/uploads/2024/09/1-21.jpg"
-
-	}  					     
+    },
+	  "https://eu1.akirabox.com/uploads/users/XLJlGnnlG15w/coMDd2F0qBgM2lMq3de-[4GAMER]-Lies.of.P-CUSA36848-EUR-Game-PS4-Arczi-CyB1K.pkg": {
+      "title_id": "CUSA36848",
+      "region": "EUR",
+      "name": "Lies of P",
+      "size": 15579993866,
+      "version": "1.00",
+      "release": "2023",
+      "min_fw": "5.05+",
+      "cover_url": "https://1.bp.blogspot.com/-tOJGpcG7wG0/ZQvK_il0VFI/AAAAAAAACxA/aX7rlCTnF3MoXVe9jfgv1B_ClgiMt2iVgCNcBGAsYHQ/s0/1.jpg"			     
   }
+ }
 }
