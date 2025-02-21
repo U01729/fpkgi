@@ -773,6 +773,16 @@
       "release": "2021",
       "min_fw": "5.05+",
       "cover_url": "https://1.bp.blogspot.com/-n8C50B4XsIo/Zjw2SNEEFJI/AAAAAAAAG0w/d1xkOSuGTNEBfxzRVJma8b0yrOrlDbYcACNcBGAsYHQ/s0/40%2B%2528Copy%2529.jpg"
-	}  					     
+    },
+	  "https://upload.vikingfile.com/thbdz6lxzu/EP0002-CUSA34029_00-COREGAME00000001-A0100-V0100-Fugazi-CyB1K.pkg": {
+      "title_id": "CUSA34029",
+      "region": "EUR",
+      "name": "Call of Duty Black Ops 6",
+      "size": 26542080,
+      "version": "1.00",
+      "release": "2024",
+      "min_fw": "5.05",
+      "cover_url": "https://dlpsgame.com/wp-content/uploads/2024/08/1-4.jpg"  					     
+   }
   }
-    }
+}
