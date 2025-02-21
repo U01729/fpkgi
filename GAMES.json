@@ -1,14 +1,5 @@
 {
-  "DATA": {"https://www.example.com/directLinkToContent.pkg": {
-      "title_id": "CUSA00012",
-      "region": "EUR",
-      "name": "All rights reserved to 4GAMER telegram and THX YOU Arabic",
-      "size": 1005458554 ,
-      "version": "1.00",
-      "release": "2025",
-      "min_fw": "5.05+",
-      "cover_url": "https://1.bp.blogspot.com/-HqfiUv2lyiE/X4Asijf1WsI/AAAAAAAAG-c/IutHceEbMcAoKhvBQrLvqjVk2_62FfbLgCLcBGAsYHQ/s0/2.jpg"
-   },	  
+  "DATA": {
     "https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/coREqim6wjldwEnZgde-GAME-Alone.With.You.PS4-CUSA04792.pkg": {
       "title_id": "CUSA04792",
       "region": "EUR",
@@ -67,7 +58,7 @@
       "size": 292356096,
       "version": "1.0",
       "release": "02-13-2025",
-      "min_fw": "5.05",
+      "min_fw": null,
       "cover_url": "https://dlpsgame.com/wp-content/uploads/2024/12/2-7.jpg"
     },
     "https://eu1.akirabox.com/uploads/users/lvgKGx6938Qn/coq7PO2b1jFj4EQKGde-Coffee.Talk.Episode.2.pkg": {
@@ -76,8 +67,8 @@
       "name": "Coffee Talk Episode 2 Hibiscus & Butterfly",
       "size": 442892288,
       "version": "1.0",
-      "release": "2025",
-      "min_fw": "5.05",
+      "release": null,
+      "min_fw": null,
       "cover_url": "https://dlpsgame.com/wp-content/uploads/2024/12/1-14.jpg"
     },
     "https://eu1.akirabox.com/uploads/users/lvgKGx6938Qn/coqCd5Fxe7tkTrhGpde-Metro%20Redux%20(CUSA00683)%20-%201.00%20Game%20-%20[DLPSGAME.COM].pkg": {
@@ -109,16 +100,6 @@
       "release": "2024",
       "min_fw": "5.05+",
       "cover_url": "https://dlpsgame.com/wp-content/uploads/2024/09/1-21.jpg"
-    },
-    "https://rr.vikingfile.com/download/PdCVQAAOKm/%5BSPSX%5D-Grand.Theft.Auto.V-CUSA00411-EUR-Game-%285.05%2B%29-PS4_OPOISSO893.pkg": {
-      "title_id": "CUSA00411",
-      "region": "EUR",
-      "name": "Grand Theft Auto V SOON BACK WORK",
-      "size": 44775034061,
-      "version": "1.00",
-      "release": "2014",
-      "min_fw": "5.05",
-      "cover_url": "https://1.bp.blogspot.com/-0NM5DA2DYBQ/WoVTnacKUGI/AAAAAAAAKvs/26hRnXFxlRUG0xINxT_ZpBsFt2Ry4xSUgCLcBGAs/s1600/21.jpg"
     },
     "https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/couXRHyxEk4TN7R1kde-RESIDENT%20EVIL%205%20BASE%20GAME.pkg": {
       "title_id": "CUSA04284",
@@ -153,13 +134,23 @@
     "https://upload.vikingfile.com/FNm9qledF0/EP1004-CUSA26613_00-GTATHREE00000001-A0100-V0104.pkg": {
       "title_id": "CUSA26613",
       "region": "EUR",
-      "name": "Grand Theft Auto 3 The Definitive Edition",
+      "name": "Grand Theft Auto 3 - The Definitive Edition",
       "size": 5066260480,
       "version": "1.04",
       "release": "2015",
       "min_fw": "9.00+",
       "cover_url": "https://1.bp.blogspot.com/-xcEKBwurxzc/Yb9rGvNYadI/AAAAAAAAMVc/Q8lZgihRkSk1HAsPSsKuXE_2xzgqufE3wCNcBGAsYHQ/h300/8.jpg"
-    },    
+    }, 
+    "https://upload.vikingfile.com/4Fvp6bXpcA/EP1004-CUSA26619_00-GTASANANDREAS001-A0100-V0104.pkg   ": {
+      "title_id": "CUSA26619",
+      "region": "EUR",
+      "name": "Grand Theft Auto: San Andreas - The Definitive Edition",
+      "size": 22735945728,
+      "version": "1.04",
+      "release": "2015",
+      "min_fw": "9.00+",
+      "cover_url": "https://1.bp.blogspot.com/-xcEKBwurxzc/Yb9rGvNYadI/AAAAAAAAMVc/Q8lZgihRkSk1HAsPSsKuXE_2xzgqufE3wCNcBGAsYHQ/h300/8.jpg"
+    },
     "https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/coSQZ4DV7dPBEVEvVde-Stick.Fight.The.Game_CUSA11826_v1.00_[5.05]_OPOISSO893.pkg": {
       "title_id": "CUSA11826",
       "region": "EUR",
@@ -350,8 +341,8 @@
       "min_fw": "5.05+",
       "cover_url": "https://1.bp.blogspot.com/-YiWNRYng7hk/WwwY0AiYY8I/AAAAAAAAK5A/8fn-ZuNrIqssl8gj1LY8QGoZIbgeOO-wgCLcBGAs/s1600/2.jpg"
 },
-    "https://upload.vikingfile.com/coN4OVEG8Z/EP1004-CUSA26616_00-GTAVICECITY00001-A0100-V0104.pkg[DLPSGAME.COM].pkg": {
-      "title_id": "CUSA23501",
+    "https://upload.vikingfile.com/coN4OVEG8Z/EP1004-CUSA26616_00-GTAVICECITY00001-A0100-V0104.pkg": {
+      "title_id": "CUSA26616",
       "region": "EUR",
       "name": "Grand Theft Auto: Vice City – The Definitive Edition",
       "size": 10844792422,
@@ -509,9 +500,8 @@
       "release": "2019",
       "min_fw": "5.05+",
       "cover_url": "https://dlpsgame.com/wp-content/uploads/2024/12/89.jpg"
-
-	  	  	  	  },
-"https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/coIk70zK7pj5HnXmKde-GAMEEEEEEEEEEEEELittle.Nightmares_CUSA05929_v1.00_[5.05]_OPOISSO893.pkg": {
+  },
+	  "https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/coIk70zK7pj5HnXmKde-GAMEEEEEEEEEEEEELittle.Nightmares_CUSA05929_v1.00_[5.05]_OPOISSO893.pkg": {
       "title_id": "CUSA05929   ",
       "region": "EUR",
       "name": "Little Nightmares 1",
@@ -520,9 +510,8 @@
       "release": "2017",
       "min_fw": "5.05+",
       "cover_url": "https://3.bp.blogspot.com/-uoVPgEM3kek/WqabvrSPoqI/AAAAAAAACZ0/foGFuzywLOEvkSWz4nRRm1f5F2ETExTzQCLcBGAs/s1600/19.jpg"
-
-	  	  	  	  	  },
-"https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/coNxm92r170vIBsC3de-GAMEEEEEEUP4133-CUSA04730_00-A0100-V0101-[DLPSGAME.COM].pkg": {
+	  },
+	  "https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/coNxm92r170vIBsC3de-GAMEEEEEEUP4133-CUSA04730_00-A0100-V0101-[DLPSGAME.COM].pkg": {
       "title_id": "CUSA04730   ",
       "region": "EUR",
       "name": "Call of Cthulhu",
@@ -593,7 +582,7 @@
       "min_fw": "9.00+",
       "cover_url": "https://1.bp.blogspot.com/-1iUal4ZN8x8/ZRqL99rW_EI/AAAAAAAADBQ/wwIZ_NS9JNIef1gEUKq6nahX_7fr3rENgCNcBGAsYHQ/s0/1.jpg"
 	},
-"https://eu1.akirabox.com/uploads/users/Q2WVGrPM3kx7/covGQe1hOyNR2ovXbde-EP4062-CUSA03290_00-RIPTIDEGAME00000-A0100-V0103.pkg": {
+"https://upload.vikingfile.com/d1jH8XC76R/EP4062-CUSA03290_00-RIPTIDEGAME00000-A0100-V0103.pkg": {
       "title_id": "CUSA03290",
       "region": "EUR",
       "name": "Dead Island Riptide",
@@ -603,7 +592,7 @@
       "min_fw": "5.05+",
       "cover_url": "https://4.bp.blogspot.com/-KOsACJOy2fQ/WpjE0d2stUI/AAAAAAAABKY/e_ssXde2eGoxlHXAUW-Nu9TqjrIH4GfowCLcBGAs/s1600/6.jpg"
 	},
-"https://eu1.akirabox.com/uploads/users/XLJlGnnlG15w/co2gzafgMSNvSPvHqde-EP4062-CUSA03291_00-DEADISLANDGAME00-A0100-V0103.pkg": {
+"https://upload.vikingfile.com/k4WeQENZRN/EP4062-CUSA03291_00-DEADISLANDGAME00-A0100-V0103.pkg": {
       "title_id": "CUSA03291",
       "region": "EUR",
       "name": "Dead Island",
@@ -643,7 +632,7 @@
       "min_fw": "9.00",
       "cover_url": "https://1.bp.blogspot.com/-xcEKBwurxzc/Yb9rGvNYadI/AAAAAAAAMVc/Q8lZgihRkSk1HAsPSsKuXE_2xzgqufE3wCNcBGAsYHQ/h300/8.jpg" 
 	},
-    "https://upload.vikingfile.com/4Fvp6bXpcA/EP1004-CUSA26619_00-GTASANANDREAS001-A0100-V0104.pkg": {
+    "https://eu1.akirabox.com/uploads/users/XLJlGnnlG15w/co1I4JdLn1fR3ANvQde-EP1004-CUSA26619_00-GTASANANDREAS001-A0100-V0104.pkg": {
       "title_id": "CUSA26619",
       "region": "EUR",
       "name": "Gta San Andréas Definitive Edition",
@@ -672,7 +661,27 @@
       "release": "2018",
       "min_fw": "5.05",
       "cover_url": "https://dlpsgame.com/wp-content/uploads/2024/12/10.jpg"
-	    },
+	},
+    "https://upload.vikingfile.com/sYzfbmOZGm/UP1004-CUSA00419_00-GTAVDIGITALDOWNL-A0100-V0100.pkg": {
+      "title_id": "CUSA00419",
+      "region": "USA",
+      "name": "Grand Theft Auto: V",
+      "size": 44755845120,
+      "version": "1.00",
+      "release": "2018",
+      "min_fw": "5.05",
+      "cover_url": "https://1.bp.blogspot.com/-0NM5DA2DYBQ/WoVTnacKUGI/AAAAAAAAKvs/26hRnXFxlRUG0xINxT_ZpBsFt2Ry4xSUgCLcBGAs/s1600/21.jpg"
+	},	
+    /*"https://upload.vikingfile.com/sYzfbmOZGm/UP1004-CUSA00419_00-GTAVDIGITALDOWNL-A0100-V0100.pkg": {
+      "title_id": "CUSA00419",
+      "region": "USA",
+      "name": "Grand Theft Auto V",
+      "size": 44755845120,
+      "version": "1.00",
+      "release": "2024",
+      "min_fw": "5.05",
+      "cover_url": "https://1.bp.blogspot.com/-0NM5DA2DYBQ/WoVTnacKUGI/AAAAAAAAKvs/26hRnXFxlRUG0xINxT_ZpBsFt2Ry4xSUgCLcBGAs/s1600/21.jpg"
+  },*/
     "https://eu1.akirabox.com/uploads/users/XLJlGnnlG15w/coZz5tBut4Z62eABhde-Resident.Evil.4.Remake.v1.00-CUSA33388.pkg": {
       "title_id": "CUSA33388 ",
       "region": "EUR",
@@ -692,7 +701,7 @@
       "release": "2016",
       "min_fw": "5.05",
       "cover_url": "https://2.bp.blogspot.com/-MDBhbcXI5ek/Wwz9ADzuRBI/AAAAAAAALDQ/wnkLrfoZksEKCpsRiKuGGRIOrO5KPgg6wCLcBGAs/s1600/16.jpg"
-	    },
+	},
     "https://eu1.akirabox.com/uploads/users/XLJlGnnlG15w/cogUgQQXtriINtdiqde-EA.SPORTS.FC.25_CUSA46399_v1.00_[11.00]_OPOISSO893.pkg": {
       "title_id": "CUSA46399   ",
       "region": "EUR",
@@ -702,8 +711,8 @@
       "release": "2024",
       "min_fw": "5.05+",
       "cover_url": "https://dlpsgame.com/wp-content/uploads/2024/09/1-21.jpg"
-    },
-	  "https://eu1.akirabox.com/uploads/users/XLJlGnnlG15w/coMDd2F0qBgM2lMq3de-[4GAMER]-Lies.of.P-CUSA36848-EUR-Game-PS4-Arczi-CyB1K.pkg": {
+	},
+    "https://eu1.akirabox.com/uploads/users/XLJlGnnlG15w/coMDd2F0qBgM2lMq3de-[4GAMER]-Lies.of.P-CUSA36848-EUR-Game-PS4-Arczi-CyB1K.pkg": {
       "title_id": "CUSA36848",
       "region": "EUR",
       "name": "Lies of P",
@@ -712,7 +721,7 @@
       "release": "2023",
       "min_fw": "5.05+",
       "cover_url": "https://1.bp.blogspot.com/-tOJGpcG7wG0/ZQvK_il0VFI/AAAAAAAACxA/aX7rlCTnF3MoXVe9jfgv1B_ClgiMt2iVgCNcBGAsYHQ/s0/1.jpg"
-		  },
+	    },		  	 					     
     "https://eu1.akirabox.com/uploads/users/XLJlGnnlG15w/co80UfkpDjc7wF3yLde-UP9000-CUSA34384_00-GOWRAGNAROK00000-A0100-V0100.pkg": {
       "title_id": "CUSA34384",
       "region": "USA",
@@ -722,26 +731,36 @@
       "release": "2022",
       "min_fw": "5.05+",
       "cover_url": "https://1.bp.blogspot.com/-zFl8BVScuhU/Y2xHbSowYCI/AAAAAAAAK3s/5cbtPfoUO9gAoL1u0f8veYL1GIpAUE-RQCNcBGAsYHQ/s0/1.jpg"
-  },
-    "https://eu1.akirabox.com/uploads/users/XLJlGnnlG15w/coa5urX8c6yFfKzkMde-4GAMER-GAMEEEEETLOUSP2_10249_v1.00_OPOISSO893-[DLPSGAME.COM].pkg?access=wdhVGZktmby1WY5QGe402btRHaktWayVGZ34Wb.pkg[DLPSGAME.COM].pkg?access=wNhNHZqt2ZydXYxRmb3JTdhBHZuRHajVWN3oXb.pkg": {
-      "title_id": "CUSA10249 ",
+	    },
+    "https://eu1.akirabox.com/uploads/users/XLJlGnnlG15w/co7SYeRp0JRBMgDyide-The.Lord.of.the.Rings.Gollum_CUSA32039_v1.00_[9.00-11.00]_OPOISSO893.pkg": {
+      "title_id": "CUSA32039",
       "region": "EUR",
-      "name": "The Last of Us Part 2 EU+ARABIC",
-      "size": 92943092285,
+      "name": "The Lord of The Rings Gollum",
+      "size": 14957223608,
       "version": "1.00",
-      "release": "2020",
-      "min_fw": "5.05-11.00",
-      "cover_url": "https://1.bp.blogspot.com/-f4IwhqilSRk/ZkRQjD_kAGI/AAAAAAAAAKM/nDrW8WC_BNQrzwMM-Lf0hdr_IUZI0PlFgCNcBGAsYHQ/s0/51.jpg"
-   },
-	  "https://upload.vikingfile.com/sYzfbmOZGm/UP1004-CUSA00419_00-GTAVDIGITALDOWNL-A0100-V0100.pkg": {
-      "title_id": "CUSA00419",
+      "release": "2023",
+      "min_fw": "9.00",
+      "cover_url": "https://1.bp.blogspot.com/-SGavci3iz6I/ZIPEaJjs90I/AAAAAAAACHI/mb6XmXhbz2A6jHiuhaHe4tAvS0R5pHrKQCNcBGAsYHQ/s0/2.jpg"
+	    },
+    "https://eu1.akirabox.com/uploads/users/XLJlGnnlG15w/corEdXbhFxwiK3su3de-CUSA08126_ODDWORLD_SOULSTORM_FXDv1.00_[FW750].pkg": {
+      "title_id": "CUSA08126",
       "region": "USA",
-      "name": "Grand Theft Auto V",
-      "size": 44755845120,
+      "name": "Oddworld Soulstorm",
+      "size": 9008693903,
       "version": "1.00",
-      "release": "2018",
-      "min_fw": "5.05",
-      "cover_url": "https://1.bp.blogspot.com/-0NM5DA2DYBQ/WoVTnacKUGI/AAAAAAAAKvs/26hRnXFxlRUG0xINxT_ZpBsFt2Ry4xSUgCLcBGAs/s1600/21.jpg"
-    },
+      "release": "2021",
+      "min_fw": "1.00",
+      "cover_url": "https://1.bp.blogspot.com/-n8C50B4XsIo/Zjw2SNEEFJI/AAAAAAAAG0w/d1xkOSuGTNEBfxzRVJma8b0yrOrlDbYcACNcBGAsYHQ/s0/40%2B%2528Copy%2529.jpg"
+	    },
+	  "https://buzzheavier.com/dl/P1YcrBuI73QLNkB5LPST3QVia20Koy02fHJT9oZIiGUCa8fp2cJI1-tdr039-ZHT1OKPrEujqJFL3MAmZHAtGRIB1ILGshvdWTZqDX-_HhTx8HoDzqNLWJsM6Wl_R05UTGjIjko0rPnNlufIHl8fTDzWYHI8CXQN?v=1740138805-s0fsDnPyT8NCceKZn8MC%2BWrJKtYI6EaL1gWrTpSUVPQ%3D": {
+      "title_id": "CUSA36843",
+      "region": "USA",
+      "name": "LIMBO TEST STORE MEDIAFIRE",
+      "size": 9663676416,
+      "version": "1.00",
+      "release": "2021",
+      "min_fw": "1.00",
+      "cover_url": "https://1.bp.blogspot.com/-n8C50B4XsIo/Zjw2SNEEFJI/AAAAAAAAG0w/d1xkOSuGTNEBfxzRVJma8b0yrOrlDbYcACNcBGAsYHQ/s0/40%2B%2528Copy%2529.jpg"
+    }  					     
   }
 }
