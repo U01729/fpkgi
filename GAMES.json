@@ -732,6 +732,16 @@
       "release": "2020",
       "min_fw": "5.05-11.00",
       "cover_url": "https://1.bp.blogspot.com/-f4IwhqilSRk/ZkRQjD_kAGI/AAAAAAAAAKM/nDrW8WC_BNQrzwMM-Lf0hdr_IUZI0PlFgCNcBGAsYHQ/s0/51.jpg"
-   }
+   },
+	  "https://upload.vikingfile.com/sYzfbmOZGm/UP1004-CUSA00419_00-GTAVDIGITALDOWNL-A0100-V0100.pkg": {
+      "title_id": "CUSA00419",
+      "region": "USA",
+      "name": "Grand Theft Auto V",
+      "size": 44755845120,
+      "version": "1.00",
+      "release": "2018",
+      "min_fw": "5.05",
+      "cover_url": "https://1.bp.blogspot.com/-0NM5DA2DYBQ/WoVTnacKUGI/AAAAAAAAKvs/26hRnXFxlRUG0xINxT_ZpBsFt2Ry4xSUgCLcBGAs/s1600/21.jpg"
+    },
   }
 }
