@@ -1,9 +1,9 @@
 {
   "DATA": {"https://www.example.com/directLinkToContent.pkg": {
-      "title_id": "CUSA00001",
+      "title_id": "CUSA00011",
       "region": "EUR",
-      "name": "gta",
-      "size": 99637499,
+      "name": "alone",
+      "size": 1005458554,
       "version": "1.00",
       "release": "2025",
       "min_fw": "5.05",
