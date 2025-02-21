@@ -1,6 +1,6 @@
 {
   "DATA": {
-    "https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/cols3JjCicupJS7oCde-1.RetroArch.PS4.r4.pkg": {
+    "https://upload.vikingfile.com/PkjYsitgqw/Unofficial%20RetroArch.pkg": {
       "title_id": "SSNE10000",
       "region": "EUR",
       "name": "Retroarch",
@@ -10,7 +10,7 @@
       "min_fw": "5.05+",
       "cover_url": "https://i.imgur.com/cJVinQA.png"
     },
-	 "https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/coORVcwQwRNnmle7sde-2.Cores_Installer_r4.1.pkg": {
+	 "https://upload.vikingfile.com/1DW150vRvW/RetroArch%20Core%20Installer.pkg": {
       "title_id": "SSNE20000",
       "region": "EUR",
       "name": "Retroarch Cores Installer",
@@ -20,7 +20,7 @@
       "min_fw": "5.05+",
       "cover_url": "https://i.imgur.com/cJVinQA.png"
     },
-	"https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/coPh1OuRsO9xudZOEde-IV0000-AZIF00003_00-PAYLOADGUEST0000.pkg": {
+	"https://upload.vikingfile.com/tZQsKQ3ite/Payload%20Guest.pkg": {
       "title_id": "AZIF00003",
       "region": "EUR",
       "name": "Payload Guest",
@@ -40,7 +40,7 @@
       "min_fw": "5.05+",
       "cover_url": "https://i.imgur.com/RtZ4AjU.png"
     },
-	"https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/cor9COPvKdAekuLnode-ps4_webdav_client.pkg": {
+	"https://upload.vikingfile.com/CYo8UN5t4B/PS4%20WebDAV%20Client.pkg": {
       "title_id": "WDVC00001",
       "region": "EUR",
       "name": "PS4 Webdav Client",
@@ -90,7 +90,7 @@
       "min_fw": "5.05+",
       "cover_url": "https://i.imgur.com/CIP0hDz.png"
     },
-	"https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/coZbrQzju9riIXhZZde-PS4_Remote_PKG_Installer_v1.02.pkg": {
+	"https://upload.vikingfile.com/m6y0oHLN6J/Remote%20PKG%20installer.pkg": {
       "title_id": "FLTZ00003",
       "region": "EUR",
       "name": "Remote PKG Installer",
@@ -110,7 +110,7 @@
       "min_fw": "5.05",
       "cover_url": "https://i.postimg.cc/XNk1S8J5/Picsart-25-02-14-07-58-22-320.jpg"
 	 },
-	 "https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/co9fPzZrNlQYqjicUde-PS4_Senuas_Saga_Hellblade_II_v1.04.pkg": {
+	 "https://upload.vikingfile.com/RosWEpjKHL/Senua_s%20Saga%20Hellblade%20II.pkg": {
       "title_id": "LAPY10025",
       "region": "USA",
       "name": "Senua's Saga Hellblade II",
@@ -130,7 +130,7 @@
       "min_fw": "5.05+",
       "cover_url": "https://i.imgur.com/vv8n7FE.png"
 	 },
-	"https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/coaM9EPso2dDs7oK9de-PS4_Live_Die_Repeat_v1.01.pkg": {
+	"https://upload.vikingfile.com/ZgswDSQaoC/Live%20Die%20Repeat.pkg": {
       "title_id": "LAPY10024",
       "region": "USA",
       "name": "Live Die Repeat",
@@ -150,7 +150,7 @@
       "min_fw": "9.00+",
       "cover_url": "https://i.imgur.com/pz3OU8z.png"
 	  },
-	 "https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/co0UatGAGjAExn5mnde-PS4_PGEN_v6.7.pkg": {
+	 "https://upload.vikingfile.com/PAJbjvLlqg/pGEN%20-%20Portable%20Genesis%20Plus%20GX.pkg": {
       "title_id": "PGEN00001",
       "region": "USA",
       "name": "pGEN - Portable Genesis Plus GX",
@@ -160,7 +160,7 @@
       "min_fw": "5.05+",
       "cover_url": "https://i.imgur.com/dsEft5s.png"
 	  },
-	 "https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/coQXzKo3hyCVmYJQrde-PS4_Lapys_River_Raid.VR_v1.00.pkg": {
+	 "https://upload.vikingfile.com/UXlsJ9oBoW/Lapy_s%20River%20Raid%20VR.pkg": {
       "title_id": "LAPY10020",
       "region": "USA",
       "name": "Lapy's River Raid VR",
@@ -180,7 +180,7 @@
       "min_fw": "5.05+",
       "cover_url": "https://i.imgur.com/Ru3lrYK.png"
 	  },
-	 "https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/coHHMRwYx6377yyxQde-PS4_Sonic.Time.Twisted_v1.1.2.1.pkg": {
+	 "https://upload.vikingfile.com/O4QTrvoAT3/Sonic%20Time%20Twisted.pkg": {
       "title_id": "OVBD00001",
       "region": "USA",
       "name": "Sonic Time Twisted",
@@ -190,7 +190,7 @@
       "min_fw": "5.05+",
       "cover_url": "https://i.imgur.com/ZgTWvb6.png"
 	  },
-	 "https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/couvRtPs0J7GHsM9Zde-PS4_Sonic_SMS_Remake2_v2.9.2.pkg": {
+	 "https://upload.vikingfile.com/97M1Y2LpBa/Sonic%20SMS%20Remake%202.pkg": {
       "title_id": "SMSR00002",
       "region": "USA",
       "name": "Sonic SMS Remake 2",
@@ -200,7 +200,7 @@
       "min_fw": "5.05+",
       "cover_url": "https://i.imgur.com/EGVw0ss.png"
 	  },
-	 "https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/coOAzMOJFW2Vnl73Kde-PS4_Portable_Final_Burn_Neo_v6.7.pkg": {
+	 "https://upload.vikingfile.com/60eHuqmQmO/Portable%20Final%20Burn%20Neo.pkg": {
       "title_id": "PFBN00001",
       "region": "USA",
       "name": "Portable Final Burn Neo",
@@ -210,7 +210,7 @@
       "min_fw": "6.7",
       "cover_url": "https://i.imgur.com/3rT4Zi3.png"
 	  },
-	 "https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/covh2aFuk9Rex0iRLde-PS4_pSNES_Portable_Snes9x_v6.7.pkg": {
+	 "https://upload.vikingfile.com/SY3VJs9Sjd/pSNES%20-%20Portable%20Snes9x.pkg": {
       "title_id": "PSNE00001",
       "region": "USA",
       "name": "pSNES - Portable Snes9x",
@@ -220,7 +220,7 @@
       "min_fw": "6.7",
       "cover_url": "https://i.imgur.com/txXI9Gy.png"
 	  },
-	 "https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/coCvLXUHQv4BTqMUXde-PS4_pNES_Portable_Nestopia_v6.7.pkg": {
+	 "https://upload.vikingfile.com/blNJOyJXRo/pNES%20-%20Portable%20Nestopia.pkg": {
       "title_id": "PNES00001",
       "region": "USA",
       "name": "pNES - Portable Nestopia",
@@ -240,7 +240,7 @@
       "min_fw": "5.05",
       "cover_url": "https://i.postimg.cc/XNk1S8J5/Picsart-25-02-14-07-58-22-320.jpg"
 	  },
-    "https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/cofIuLGIjK1DYPeG7de-PS4_LAPY10016_v1.00.pkg": {
+    "https://upload.vikingfile.com/R3kOLH36Xc/Nanospeed%20The%20Game.pkg": {
       "title_id": "LAPY10016",
       "region": "EUR",
       "name": "NANOSPEED GAMER",
