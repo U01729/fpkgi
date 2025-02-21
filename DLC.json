@@ -1,14 +1,74 @@
 {
   "DATA": {
-    "https://www.web.site/content.pkg": {
-      "title_id": "CUSA00000",
-      "region": "ALL",
-      "name": "Demo",
-      "version": "1.00",
-      "release": "01-01-9999",
-      "size": 13333333337,
-      "min_fw": "12.00",
-      "cover_url": null
-    }
+    "https://upload.vikingfile.com/rQ5FvK2Pl6/Lies.of.P.CUSA36848.PreOrder.Costume-Arczi.pkg": {
+      "title_id": "CUSA36848 ",
+      "region": "EUR",
+      "name": "Lies of P PreOrder Costume DLC",
+      "size": 1048576,
+      "version": "DLC",
+      "release": "2024",
+      "min_fw": "5.05",
+      "cover_url": "https://1.bp.blogspot.com/-tOJGpcG7wG0/ZQvK_il0VFI/AAAAAAAACxA/aX7rlCTnF3MoXVe9jfgv1B_ClgiMt2iVgCNcBGAsYHQ/s0/1.jpg"
+    },
+    "https://upload.vikingfile.com/IGFzJ2uW6g/Lies.of.P.CUSA36848.Deluxe.Upgrade-Arczi.pkg": {
+      "title_id": "CUSA36848 ",
+      "region": "EUR",
+      "name": "Lies of P Deluxe Upgrade DLC",
+      "size": 1048576,
+      "version": "DLC",
+      "release": "2024",
+      "min_fw": "5.05",
+      "cover_url": "https://1.bp.blogspot.com/-tOJGpcG7wG0/ZQvK_il0VFI/AAAAAAAACxA/aX7rlCTnF3MoXVe9jfgv1B_ClgiMt2iVgCNcBGAsYHQ/s0/1.jpg"
+    },    	  
+    "https://eu1.akirabox.com/uploads/users/XLJlGnnlG15w/co7MlKtVmYSaY2sIOde-4GAMER+DLCCCCCCCCCThe.Last.of.Us.Part.2-CUSA10249-EUR-Pre-Order-DLC-PS4.pkg?access=QNhNGZ3tGbytWYiRmazJDZwM2M4cnYpVGc3sWb": {
+      "title_id": "CUSA10249 ",
+      "region": "EUR",
+      "name": "The Last of Us Part 2 DLC",
+      "size": 1048576,
+      "version": "DLC",
+      "release": "2020",
+      "min_fw": "5.05",
+      "cover_url": "https://1.bp.blogspot.com/-f4IwhqilSRk/ZkRQjD_kAGI/AAAAAAAAAKM/nDrW8WC_BNQrzwMM-Lf0hdr_IUZI0PlFgCNcBGAsYHQ/s0/51.jpg"
+    },
+    "https://upload.vikingfile.com/oA2ydd2cY2/Call.of.Duty.Black.Ops.6.CUSA34029.BO6.Content.License-CyB1K.pkg   ": {
+      "title_id": "CUSA34029",
+      "region": "EUR",
+      "name": "Call of Duty Black Ops 6 License DLC",
+      "size": 1048576,
+      "version": "DLC",
+      "release": "2024",
+      "min_fw": "5.05",
+      "cover_url": "https://dlpsgame.com/wp-content/uploads/2024/08/1-4.jpg"
+    },
+    "https://upload.vikingfile.com/YoBbCd2uol/Call.of.Duty.Black.Ops.6.CUSA34029.BO6.Multiplayer.Pack-CyB1K.pkg": {
+      "title_id": "CUSA34029",
+      "region": "EUR",
+      "name": "Call of Duty Black Ops 6 Multiplayer Pack DLC",
+      "size": 12489719808,
+      "version": "DLC",
+      "release": "2024",
+      "min_fw": "5.05",
+      "cover_url": "https://dlpsgame.com/wp-content/uploads/2024/08/1-4.jpg"
+    },
+    "https://upload.vikingfile.com/4Go3MkNNCj/Call.of.Duty.Black.Ops.6.CUSA34029.BO6.Campaign.Pack.1-CyB1K.pkg": {
+      "title_id": "CUSA34029",
+      "region": "EUR",
+      "name": "Call of Duty Black Ops 6 Campaign Pack 1 DLC",
+      "size": 13716881408,
+      "version": "DLC",
+      "release": "2024",
+      "min_fw": "5.05",
+      "cover_url": "https://dlpsgame.com/wp-content/uploads/2024/08/1-4.jpg"
+    },
+    "https://upload.vikingfile.com/RrlPdi5qzW/Call.of.Duty.Black.Ops.6.CUSA34029.BO6.Campaign.Pack.2-CyB1K.pkg": {
+      "title_id": "CUSA34029",
+      "region": "EUR",
+      "name": "Call of Duty Black Ops 6 Campaign Pack 2 DLC",
+      "size": 18055692288,
+      "version": "DLC",
+      "release": "2024",
+      "min_fw": "5.05",
+      "cover_url": "https://dlpsgame.com/wp-content/uploads/2024/08/1-4.jpg"
+    }                  
   }
 }
