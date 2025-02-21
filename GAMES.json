@@ -381,10 +381,10 @@
       "min_fw": "5.05+",
       "cover_url": "https://dlpsgame.com/wp-content/uploads/2024/10/1-2.jpg"
     },
-"https://eu1.akirabox.com/uploads/users/Q2WVGrBgGkx7/coRZZ5e4DqLU810Y8de-[SuperPSX]-RESIDENT.EVIL.2_CUSA09171_v1.00_[6.72]_OPOISSO893.pkg": {
+"https://eu1.akirabox.com/uploads/users/XLJlGnnlG15w/cotoGGGHJwUAhPiJwde-EP0102-CUSA09171_00-BH2R000000000001-A0100-V0100.pkg": {
       "title_id": "CUSA09171 ",
       "region": "EUR",
-      "name": "Resident Evil 2 SOON BACK WORK",
+      "name": "Resident Evil 2",
       "size": 23192823398,
       "version": "1.00",
       "release": "2019",
@@ -673,6 +673,26 @@
       "release": "2023",
       "min_fw": "9.50",
       "cover_url": "https://1.bp.blogspot.com/-mO89dvXdmhg/ZB0njRKLJkI/AAAAAAAAAxs/WN6TF8M7rck7YCrKnvi8hoC9blu3Jea_QCNcBGAsYHQ/s0/4.jpg"
+	    },
+    "https://eu1.akirabox.com/uploads/users/XLJlGnnlG15w/cobWRsURwjCxXyHUxde-HITMAN%E2%84%A2.pkg": {
+      "title_id": "CUSA02369  ",
+      "region": "EUR",
+      "name": "Hitman Game of The Year Edition",
+      "size": 10898479514,
+      "version": "1.00",
+      "release": "2016",
+      "min_fw": "5.05",
+      "cover_url": "https://2.bp.blogspot.com/-MDBhbcXI5ek/Wwz9ADzuRBI/AAAAAAAALDQ/wnkLrfoZksEKCpsRiKuGGRIOrO5KPgg6wCLcBGAs/s1600/16.jpg"
+	    },
+    "https://eu1.akirabox.com/uploads/users/XLJlGnnlG15w/cogUgQQXtriINtdiqde-EA.SPORTS.FC.25_CUSA46399_v1.00_[11.00]_OPOISSO893.pkg": {
+      "title_id": "CUSA46399   ",
+      "region": "EUR",
+      "name": "EA Sports FC 25",
+      "size": 44871670825,
+      "version": "1.00",
+      "release": "2024",
+      "min_fw": "5.05+",
+      "cover_url": "https://dlpsgame.com/wp-content/uploads/2024/09/1-21.jpg"
 
 	}  					     
   }
