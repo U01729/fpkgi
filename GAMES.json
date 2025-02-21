@@ -221,11 +221,11 @@
       "min_fw": "7.00",
       "cover_url": "https://dlpsgame.com/wp-content/uploads/2025/02/2-3.jpg"
     },
-    "https://download.akirabox.com/uploads/users/1k0embVVmVb4/cog4wnDVU9diQRJhfde-CUSA00341_FXDv1.00_[DLPSGAME.COM].pkg": {
-      "title_id": "CUSA00341 ",
-      "region": "USA",
+    "https://upload.vikingfile.com/p4czPb2Tfp/EP9000-CUSA00917_00-UNCHARTED4000000-A0100-V0100-dev-menu-60fps.pkg": {
+      "title_id": "CUSA00917 ",
+      "region": "EUR",
       "name": "Uncharted 4 A Thiefs End",
-      "size": 47437913784,
+      "size": 48673652736,
       "version": "1.00",
       "release": "2016",
       "min_fw": "5.05+",
@@ -500,8 +500,9 @@
       "release": "2019",
       "min_fw": "5.05+",
       "cover_url": "https://dlpsgame.com/wp-content/uploads/2024/12/89.jpg"
-  },
-	  "https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/coIk70zK7pj5HnXmKde-GAMEEEEEEEEEEEEELittle.Nightmares_CUSA05929_v1.00_[5.05]_OPOISSO893.pkg": {
+
+	  	  	  	  },
+"https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/coIk70zK7pj5HnXmKde-GAMEEEEEEEEEEEEELittle.Nightmares_CUSA05929_v1.00_[5.05]_OPOISSO893.pkg": {
       "title_id": "CUSA05929   ",
       "region": "EUR",
       "name": "Little Nightmares 1",
@@ -510,8 +511,9 @@
       "release": "2017",
       "min_fw": "5.05+",
       "cover_url": "https://3.bp.blogspot.com/-uoVPgEM3kek/WqabvrSPoqI/AAAAAAAACZ0/foGFuzywLOEvkSWz4nRRm1f5F2ETExTzQCLcBGAs/s1600/19.jpg"
-	  },
-	  "https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/coNxm92r170vIBsC3de-GAMEEEEEEUP4133-CUSA04730_00-A0100-V0101-[DLPSGAME.COM].pkg": {
+
+	  	  	  	  	  },
+"https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/coNxm92r170vIBsC3de-GAMEEEEEEUP4133-CUSA04730_00-A0100-V0101-[DLPSGAME.COM].pkg": {
       "title_id": "CUSA04730   ",
       "region": "EUR",
       "name": "Call of Cthulhu",
@@ -722,7 +724,7 @@
       "min_fw": "5.05+",
       "cover_url": "https://1.bp.blogspot.com/-tOJGpcG7wG0/ZQvK_il0VFI/AAAAAAAACxA/aX7rlCTnF3MoXVe9jfgv1B_ClgiMt2iVgCNcBGAsYHQ/s0/1.jpg"
 	    },		  	 					     
-    "https://eu1.akirabox.com/uploads/users/XLJlGnnlG15w/co80UfkpDjc7wF3yLde-UP9000-CUSA34384_00-GOWRAGNAROK00000-A0100-V0100.pkg": {
+    "https://upload.vikingfile.com/EdCoZkjuYq/UP9000-CUSA34384_00-GOWRAGNAROK00000-A0100-V0100.pkg": {
       "title_id": "CUSA34384",
       "region": "USA",
       "name": "God of War Ragnarok",
@@ -752,7 +754,17 @@
       "min_fw": "1.00",
       "cover_url": "https://1.bp.blogspot.com/-n8C50B4XsIo/Zjw2SNEEFJI/AAAAAAAAG0w/d1xkOSuGTNEBfxzRVJma8b0yrOrlDbYcACNcBGAsYHQ/s0/40%2B%2528Copy%2529.jpg"
 	    },
-	  "https://buzzheavier.com/dl/P1YcrBuI73QLNkB5LPST3QVia20Koy02fHJT9oZIiGUCa8fp2cJI1-tdr039-ZHT1OKPrEujqJFL3MAmZHAtGRIB1ILGshvdWTZqDX-_HhTx8HoDzqNLWJsM6Wl_R05UTGjIjko0rPnNlufIHl8fTDzWYHI8CXQN?v=1740138805-s0fsDnPyT8NCceKZn8MC%2BWrJKtYI6EaL1gWrTpSUVPQ%3D": {
+    "https://upload.vikingfile.com/t5utc7pO0n/EP9000-CUSA09175_00-DAYSGONECOMPLETE-A0100-V0161v1.pkg": {
+      "title_id": "CUSA00917 ",
+      "region": "EUR",
+      "name": "Days Gone",
+      "size": 42595975168,
+      "version": "1.61",
+      "release": "2019",
+      "min_fw": "5.05+",
+      "cover_url": "https://dlpsgame.com/wp-content/uploads/2024/12/24.jpg"
+    },	    
+    /*"https://buzzheavier.com/dl/P1YcrBuI73QLNkB5LPST3QVia20Koy02fHJT9oZIiGUCa8fp2cJI1-tdr039-ZHT1OKPrEujqJFL3MAmZHAtGRIB1ILGshvdWTZqDX-_HhTx8HoDzqNLWJsM6Wl_R05UTGjIjko0rPnNlufIHl8fTDzWYHI8CXQN?v=1740138805-s0fsDnPyT8NCceKZn8MC%2BWrJKtYI6EaL1gWrTpSUVPQ%3D": {
       "title_id": "CUSA36843",
       "region": "USA",
       "name": "LIMBO TEST STORE MEDIAFIRE",
@@ -761,6 +773,6 @@
       "release": "2021",
       "min_fw": "1.00",
       "cover_url": "https://1.bp.blogspot.com/-n8C50B4XsIo/Zjw2SNEEFJI/AAAAAAAAG0w/d1xkOSuGTNEBfxzRVJma8b0yrOrlDbYcACNcBGAsYHQ/s0/40%2B%2528Copy%2529.jpg"
-    }  					     
+	}*/  					     
   }
-}
+    }
