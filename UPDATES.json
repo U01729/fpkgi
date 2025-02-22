@@ -30,7 +30,7 @@
       "min_fw": "6.72",
       "cover_url": "https://dlpsgame.com/wp-content/uploads/2024/09/1-21.jpg"
     },
-	  "https://upload.vikingfile.com/APYeif4AU2/Grand.Theft.Auto.3_CUSA03508_v1.02_OPOISSO893.pkg": {
+    /*"https://upload.vikingfile.com/APYeif4AU2/Grand.Theft.Auto.3_CUSA03508_v1.02_OPOISSO893.pkg": {
       "title_id": "CUSA03508",
       "region": "EUR",
       "name": "Grand Theft Auto III – The Definitive Edition FIX 5.05-11.00",
@@ -39,8 +39,8 @@
       "release": "2015",
       "min_fw": "5.05+",
       "cover_url": "https://1.bp.blogspot.com/-xcEKBwurxzc/Yb9rGvNYadI/AAAAAAAAMVc/Q8lZgihRkSk1HAsPSsKuXE_2xzgqufE3wCNcBGAsYHQ/h300/8.jpg"
-    },
-	  "https://eu1.akirabox.com/uploads/users/Q2WVGrBgGkx7/coBacN1ZKTl53jirQde-[SuperPSX]-Devil.May.Cry.5_CUSA08161_v1.10_[6.72]-PS4.pkg": {
+    },*/
+  "https://eu1.akirabox.com/uploads/users/Q2WVGrBgGkx7/coBacN1ZKTl53jirQde-[SuperPSX]-Devil.May.Cry.5_CUSA08161_v1.10_[6.72]-PS4.pkg": {
       "title_id": "CUSA08161 ",
       "region": "EUR",
       "name": "Devil May Cry 5 Deluxe Edition FIX 6.72 SOON NEXT UPDATE",
@@ -49,16 +49,6 @@
       "release": "2019",
       "min_fw": "6.72",
       "cover_url": "https://2.bp.blogspot.com/-uSOwAk_fliY/X1B_jDjCcYI/AAAAAAAAGwQ/ae7NIgw8qfA-82yMBVoWpOKk_IA4ouswgCLcBGAsYHQ/s1600/0.jpg" 
-    },
-"https://eu1.akirabox.com/uploads/users/Q2WVGrBgGkx7/co4ulEX6vsudzqDVGde-[SuperPSX]-Devil.May.Cry.5_CUSA08161_v1.10_BACKPORT_[5.05]-PS4.pkg": {
-      "title_id": "CUSA08161 ",
-      "region": "EUR",
-      "name": "Devil May Cry 5 Deluxe Edition FIX 5.05 SOON NEXT UPDATE",
-      "size": 5723043921,
-      "version": "1.10",
-      "release": "2019",
-      "min_fw": "5.05+",
-      "cover_url": "https://2.bp.blogspot.com/-uSOwAk_fliY/X1B_jDjCcYI/AAAAAAAAGwQ/ae7NIgw8qfA-82yMBVoWpOKk_IA4ouswgCLcBGAsYHQ/s1600/0.jpg"
     },
     "https://upload.vikingfile.com/zSoSAlJIii/Tormented.Souls.v1.02bp-CUSA29199.pkg": {
       "title_id": "CUSA29199 ",
@@ -70,7 +60,7 @@
       "min_fw": "5.05+",
       "cover_url": "https://1.bp.blogspot.com/-xFIFXOQLdmo/Yh2btDq7UxI/AAAAAAAAIng/2JCCixTC0sEZrNmMn7ssyXPKxIUxbkjxQCNcBGAsYHQ/s0/2.jpg"
 	  },
-    "https://upload.vikingfile.com/d9j5IJGWhl/Saint.Kotar_CUSA32503_v1.05_BACKPORT_%5B5.05-6.72-7.xx-8.xx%5D_OPOISSO893.pkg"": {
+    "https://upload.vikingfile.com/d9j5IJGWhl/Saint.Kotar_CUSA32503_v1.05_BACKPORT_%5B5.05-6.72-7.xx-8.xx%5D_OPOISSO893.pkg": {
       "title_id": "CUSA32503  ",
       "region": "EUR",
       "name": "Saint Kotar FIX 5.05-11.00",
@@ -89,8 +79,8 @@
       "release": "2018",
       "min_fw": "5.05+",
       "cover_url": "https://1.bp.blogspot.com/-MgN5EzURAbo/ZiSkP7g5RtI/AAAAAAAAGCU/9G5TJjB_vEMk8RcUY9MOfA95SUzAvciLQCNcBGAsYHQ/s0/1.png"
-     },
-	  "https://upload.vikingfile.com/0Dsw7le6By/PATCH-FIXUP1004-CUSA26615_00-A0107-V0100-CyB1K-%5BDLPSGAME.COM%5D.pkg": {
+	  	  },
+    /*"https://upload.vikingfile.com/0Dsw7le6By/PATCH-FIXUP1004-CUSA26615_00-A0107-V0100-CyB1K-%5BDLPSGAME.COM%5D.pkg": {
       "title_id": "CUSA23501",
       "region": "EUR",
       "name": "Grand Theft Auto: Vice City – The Definitive Edition FIX",
@@ -99,7 +89,7 @@
       "release": "2021",
       "min_fw": "5.05+",
       "cover_url": "https://1.bp.blogspot.com/-xcEKBwurxzc/Yb9rGvNYadI/AAAAAAAAMVc/Q8lZgihRkSk1HAsPSsKuXE_2xzgqufE3wCNcBGAsYHQ/h300/8.jpg"
-    },
+    },*/
      "https://download.akirabox.com/uploads/users/1k0embVVmVb4/co0jW9eMhRDPimDpLde-CUSA15010-USA-v1.41-[Fix.5.05-6.72-7.02-7.55-9.00]-PS4-[DLPSGAME.COM].pkg": {
       "title_id": "CUSA15010 ",
       "region": "EUR",
@@ -110,7 +100,7 @@
       "min_fw": "5.05+",
       "cover_url": "https://1.bp.blogspot.com/-4VjCGuaGMD4/YbywKejnQrI/AAAAAAAAMQM/aQlLmYT39V474FQ_V8P1rI9C_OQ8BYJDwCNcBGAsYHQ/h300/2.jpg"
     },
-     "https://upload.vikingfile.com/MGnlywsDf4/Prince.Of.Persia.The.Lost.Crown_CUSA36582_v1.00_%5B9.00%5D_OPOISSO893.pkg": {
+     "https://upload.vikingfile.com/7gU4kYNxfa/Prince.Of.Persia.The.Lost.Crown_CUSA36582_FIX-6.72-7.XX.pkg": {
       "title_id": "CUSA36582 ",
       "region": "EUR",
       "name": "Prince of Persia The Lost Crown-FIX 6.72-7.XX",
@@ -179,6 +169,8 @@
       "release": "2022",
       "min_fw": "5.05+",
       "cover_url": "https://1.bp.blogspot.com/-IhpA6Kd86n4/ZmsqajTQIBI/AAAAAAAAHWw/5O6xqcDP1_QFd4cwf18qtgl7jXN5BMkIgCNcBGAsYHQ/s0/3.jpg"
+	  
+	  
 	  	  	  },
 "https://upload.vikingfile.com/LLoY4IDbeT/EP0700-CUSA08495_00-DARKSOULSHD00000-A0103-V0100.pkg": {
       "title_id": "CUSA08692 ",
@@ -219,6 +211,7 @@
       "release": "2019",
       "min_fw": "5.05+",
       "cover_url": "https://dlpsgame.com/wp-content/uploads/2024/12/89.jpg"
+
 	  	  	  	  },
 "https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/coz1bQM5fE7R9akpGde-FIXXXXXXXXLittle.Nightmares_CUSA05929_v1.07_[5.05]_OPOISSO893.pkg": {
       "title_id": "CUSA05929   ",
@@ -245,17 +238,17 @@
       "region": "EUR",
       "name": "Rise of The Tomb Raider 20 Year Celebration UPDATE",
       "size": 3027951943,
-      "version": "1.06",
+      "version": "1.00",
       "release": "2016",
       "min_fw": "5.05+",
       "cover_url": "https://1.bp.blogspot.com/-PMTKzKpApIg/WoVj97gZpsI/AAAAAAAAK0Y/Rbb6M-z_pfAvU-hzxqV5L4UVh4BdB15KACLcBGAs/s1600/38.jpg"
 	  	  	  	  	  	  },
-	  "https://upload.vikingfile.com/eW0ftuyFm4/Kena.Bridge.of.Spirits_CUSA25000_v2.08_BACKPORT_%5B5.05-6.72-7.xx-8.xx%5D_OPOISSO893.pkg": {
+"https://upload.vikingfile.com/eW0ftuyFm4/Kena.Bridge.of.Spirits_CUSA25000_v2.08_BACKPORT_%5B5.05-6.72-7.xx-8.xx%5D_OPOISSO893.pkg": {
       "title_id": "CUSA25000      ",
       "region": "EUR",
       "name": "Kena Bridge of Spirits FIX 5.05-7.XX",
       "size": 186059325,
-      "version": "2.08",
+      "version": "1.00",
       "release": "2021",
       "min_fw": "5.05+",
       "cover_url": "https://1.bp.blogspot.com/-ues3M82B-vQ/YbvRzMddk5I/AAAAAAAAMLU/yHaiIeLAwNY30HPArfbckB4euOHLyWNewCNcBGAsYHQ/h300/2.jpg"
@@ -265,7 +258,7 @@
       "region": "EUR",
       "name": "Kena Bridge of Spirits FIX 9.00",
       "size": 976224,
-      "version": "2.08",
+      "version": "1.00",
       "release": "2021",
       "min_fw": "9.00",
       "cover_url": "https://1.bp.blogspot.com/-ues3M82B-vQ/YbvRzMddk5I/AAAAAAAAMLU/yHaiIeLAwNY30HPArfbckB4euOHLyWNewCNcBGAsYHQ/h300/2.jpg"
@@ -360,7 +353,7 @@
       "min_fw": "5.05",
       "cover_url": "https://1.bp.blogspot.com/-0NM5DA2DYBQ/WoVTnacKUGI/AAAAAAAAKvs/26hRnXFxlRUG0xINxT_ZpBsFt2Ry4xSUgCLcBGAs/s1600/21.jpg"
   },
-"https://upload.vikingfile.com/4cqVeDXw9N/4GAM5.05-EP0102-CUSA09171_00-BH2R000000000001-A0104-V0100.pkg": {
+"https://upload.vikingfile.com/VqVe12HwCj/EA.SPORTS.FC.25_CUSA46399_v1.14_BACKPORT_%5B5.05-6.72-7.xx%5D_MOD.LANG_OPOISSO893.pkg": {
       "title_id": "CUSA09171 ",
       "region": "EUR",
       "name": "Resident Evil 2 FIX 5.05+",
@@ -390,7 +383,7 @@
       "min_fw": "5.05+",
       "cover_url": "https://dlpsgame.com/wp-content/uploads/2024/09/1-21.jpg"
 	    },
-    "https://upload.vikingfile.com/bWNKvdB7C2/EA.SPORTS.FC.25_CUSA46399_Arabic.Audio-%5BDLPSGAME.COM%5D.pkg": {
+    "https://eu1.akirabox.com/uploads/users/XLJlGnnlG15w/coOz9Lj37dQJGp036de-EA.SPORTS.FC.25_CUSA46399_Arabic.Audio-[DLPSGAME.COM].pkg": {
       "title_id": "CUSA46399   ",
       "region": "EUR",
       "name": "EA Sports FC 25 FIX COMENTARY ARABIC",
@@ -425,7 +418,7 @@
       "region": "USA",
       "name": "Oddworld Soulstorm FIX 5.05-11.00",
       "size": 5970004541,
-      "version": "1.20",
+      "version": "1.00",
       "release": "2021",
       "min_fw": "1.00",
       "cover_url": "https://eu1.akirabox.com/uploads/users/XLJlGnnlG15w/coo0OisU7ocSxvWgdde-Oddworld.Soulstorm.v1.20bp-CUSA08126.pkg"
@@ -449,8 +442,8 @@
       "release": "2020",
       "min_fw": "5.05",
       "cover_url": "https://1.bp.blogspot.com/-f4IwhqilSRk/ZkRQjD_kAGI/AAAAAAAAAKM/nDrW8WC_BNQrzwMM-Lf0hdr_IUZI0PlFgCNcBGAsYHQ/s0/51.jpg"
-     },
-	  "https://upload.vikingfile.com/z6BAMEggLJ/EP0002-CUSA34029_00-COREGAME00000001-A0158-V0100-TheWorldismine-CyB1K.pkg": {
+  },
+    "https://upload.vikingfile.com/z6BAMEggLJ/EP0002-CUSA34029_00-COREGAME00000001-A0158-V0100-TheWorldismine-CyB1K.pkg": {
       "title_id": "CUSA34029",
       "region": "EUR",
       "name": "Call of Duty Black Ops 6 Update 1.58",
@@ -458,9 +451,9 @@
       "version": "1.58",
       "release": "2024",
       "min_fw": "5.05",
-      "cover_url": "https://dlpsgame.com/wp-content/uploads/2024/08/1-4.jpg"    	 
-    },
-	  "https://upload.vikingfile.com/ltkPL88j1X/wo%20long%20fallen%20dynasty%20ps4%20UPDATE-1.00.pkg": {
+      "cover_url": "https://dlpsgame.com/wp-content/uploads/2024/08/1-4.jpg"
+	  	      },
+    "https://upload.vikingfile.com/ltkPL88j1X/wo%20long%20fallen%20dynasty%20ps4%20UPDATE-1.00.pkg": {
       "title_id": "CUSA36986",
       "region": "EUR",
       "name": "Wo Long Fallen Dynasty UPDATE",
@@ -469,7 +462,6 @@
       "release": "2023",
       "min_fw": "5.05+",
       "cover_url": "https://1.bp.blogspot.com/-Cubfoqzn2QY/ZALKXNxD9WI/AAAAAAAAJJA/v5rHhLnin5A0YD59MTbBC-jQEB4TQ71UQCNcBGAsYHQ/s0/1.jpg"
-    }
+    }     	 
   }
-}
- 
+    }
