@@ -8,8 +8,7 @@
       "version": "1.00",
       "release": "2016",
       "min_fw": "5.05+",
-  
-    "cover_url": "https://1.bp.blogspot.com/-HqfiUv2lyiE/X4Asijf1WsI/AAAAAAAAG-c/IutHceEbMcAoKhvBQrLvqjVk2_62FfbLgCLcBGAsYHQ/s0/1.jpg"
+      "cover_url": "https://1.bp.blogspot.com/-HqfiUv2lyiE/X4Asijf1WsI/AAAAAAAAG-c/IutHceEbMcAoKhvBQrLvqjVk2_62FfbLgCLcBGAsYHQ/s0/1.jpg"
     },
     "https://download.akirabox.com/uploads/users/1k0embVVmVb4/coURjWjrfEjfDwUtkde-JP2310-CUSA46221_00-A0100-V0100-NoTrophy-TRIFECTA-[DLPSGAME.COM].pkg": {
       "title_id": "CUSA46221 ",
@@ -58,7 +57,7 @@
       "size": 292356096,
       "version": "1.0",
       "release": "02-13-2025",
-      "min_fw": null,
+      "min_fw": "5.05",
       "cover_url": "https://dlpsgame.com/wp-content/uploads/2024/12/2-7.jpg"
     },
     "https://upload.vikingfile.com/FUg4ZevcqQ/Coffee.Talk.Episode.2.pkg": {
@@ -67,8 +66,8 @@
       "name": "Coffee Talk Episode 2 Hibiscus & Butterfly",
       "size": 442892288,
       "version": "1.0",
-      "release": null,
-      "min_fw": null,
+      "release": "2020",
+      "min_fw": ,"5.05",
       "cover_url": "https://dlpsgame.com/wp-content/uploads/2024/12/1-14.jpg"
     },
     "https://upload.vikingfile.com/HtZ14IrHay/Metro%20Redux%20%28CUSA00683%29%20-%201.00%20Game%20-%20%5BDLPSGAME.COM%5D.pkg": {
