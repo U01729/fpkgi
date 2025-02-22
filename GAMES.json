@@ -594,7 +594,7 @@
       "min_fw": "5.05",
       "cover_url": "https://1.bp.blogspot.com/-0NM5DA2DYBQ/WoVTnacKUGI/AAAAAAAAKvs/26hRnXFxlRUG0xINxT_ZpBsFt2Ry4xSUgCLcBGAs/s1600/21.jpg"
 	},	
-    /*"https://upload.vikingfile.com/sYzfbmOZGm/UP1004-CUSA00419_00-GTAVDIGITALDOWNL-A0100-V0100.pkg": {
+    "https://upload.vikingfile.com/sYzfbmOZGm/UP1004-CUSA00419_00-GTAVDIGITALDOWNL-A0100-V0100.pkg": {
       "title_id": "CUSA00419",
       "region": "USA",
       "name": "Grand Theft Auto V",
@@ -603,7 +603,7 @@
       "release": "2024",
       "min_fw": "5.05",
       "cover_url": "https://1.bp.blogspot.com/-0NM5DA2DYBQ/WoVTnacKUGI/AAAAAAAAKvs/26hRnXFxlRUG0xINxT_ZpBsFt2Ry4xSUgCLcBGAs/s1600/21.jpg"
-  },*/
+    },
     "https://upload.vikingfile.com/0LWmO61aG6/Resident.Evil.4.Remake.v1.00-CUSA33388.pkg": {
       "title_id": "CUSA33388 ",
       "region": "EUR",
